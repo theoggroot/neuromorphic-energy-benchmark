@@ -1,0 +1,10 @@
+torch
+torchvision
+norse
+psutil
+pyRAPL
+matplotlib
+tqdm
+pandas 
+torchviz
+graphviz 
